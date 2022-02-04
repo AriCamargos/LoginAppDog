@@ -1,18 +1,18 @@
 <h1 align="center">
-  :trophy: ProjetoBase de Conhecimento
+🐶 Projeto Login Dog 🐶
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GuilhermeManzano/projeto-base-conhecimento">
+  <img alt="GitHub language count" src="https://img.shields.io/badge/languages-1-blue">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GuilhermeManzano/projeto-base-conhecimento">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AriCamargos/LoginAppDog">
 
-  <a href="https://github.com/GuilhermeManzano/projeto-base-conhecimento/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GuilhermeManzano/projeto-base-conhecimento">
+  <a href="https://github.com/AriCamargos/LoginAppDog">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AriCamargos/LoginAppDog">
   </a>
 
-  <a href="https://github.com/GuilhermeManzano/projeto-base-conhecimento/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/GuilhermeManzano/projeto-base-conhecimento">
+  <a href="https://github.com/AriCamargos/LoginAppDog/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/AriCamargos/LoginAppDog">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -32,12 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Dart
 
 ## 💻 Projeto
-  Este projeto foi desenvolvido com base no curso  *__Web Moderno com JavaScript 2020__* da [Cod3r](https://www.cod3r.com.br). O backend e o frontend foram separados em pastas distintas e foram utilizados o PostgreSQL (banco relacional) e o MongoDB (não relacional) como banco de dados. 
-
-  Esta aplicação consiste em um site, que é acessado mediante cadastro, que contém artigos e publicações relacionados a programação. O usuário comum pode visualizar qualquer artigo do site, enquanto o administrado pode criar novos artigos através de um editor personalizado, criar novas categorias e sub-categorias, excluir conteúdo, criar/editar/excluir usuários do sistema e outros administradores, entre outras funções. O projeto segue em desenvolvimento, e em breve, serão implementados novas funcionalidades e melhorias.
-
-  Para a construção da aplicação, foram utilizadas Javascript, CSS, HTML, Vue, Ajax, Bootstrap, entre outros.
-
+  Esta aplicação consiste na releitura (retirada do site Behance) de uma página de login de um aplicativo para pessoas que tem um lifestyle dedicado ao seu animal de estimação. Aqui se encontram alguns conceito básicos do Flutter como widgets, alignments, buttons, colors, navegation, images, fonts e principalmente de herança. O projeto segue em desenvolvimento, e em breve, serão implementados novas funcionalidades e melhorias.
+  
 ### Imagem da tela de login
 
 <p align="center">
@@ -47,7 +43,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
-Projeto realizado com a finalidade de fazer a releitura da Página de Login de um Aplicativo para pessoas que amam cachorros. Aqui tem alguns conceito de widgets, alignments, buttons, colors, navegation, images, fonts e principalmente de herança em Flutter 🤓❣️
-
-Inspiração https://www.behance.net/gallery/73935801/Doglife-Ui-Kit-Free-for-Adobe-XD
