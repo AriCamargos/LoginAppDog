@@ -3,9 +3,12 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/badge/languages-1-blue">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/AriCamargos/LoginAppDog">
+  
+  <img alt="Version" src="https://img.shields.io/badge/version-2.8.1-blue">
+  
+ 
 
   <a href="https://github.com/AriCamargos/LoginAppDog">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AriCamargos/LoginAppDog">
